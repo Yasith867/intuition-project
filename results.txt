@@ -1,0 +1,20 @@
+Input: HelloWorld123
+Uppercase: HELLOWORLD123
+Lowercase: helloworld123
+Reversed: 321dlroWolleH
+
+Input: NodeJS
+Uppercase: NODEJS
+Lowercase: nodejs
+Reversed: SJedoN
+
+Input: ChatGPT
+Uppercase: CHATGPT
+Lowercase: chatgpt
+Reversed: TPGtahC
+
+Input: TestString
+Uppercase: TESTSTRING
+Lowercase: teststring
+Reversed: gnirtStseT
+
